@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌟 Bu benim GitHub profil README dosyam!
 
 <!--
 **rojinyzc/rojinyzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

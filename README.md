@@ -5,7 +5,7 @@
 
 - 💬 Ask me about ...# 👋 Merhaba, ben ROJİN
 
-🎓 Bilgisayar Programlama  son sınıf öğrencisiyim.  
+🎓 Bilgisayar Programcılığı mezunuyum .  
 🚀 Python, C#, React ve Web Geliştirme ile ilgileniyorum.  
 🧠 Yapay Zeka ve Otomasyon Sistemleri konusunda projeler geliştiriyorum.
 
@@ -13,7 +13,7 @@
 
 
 ## 📫 Bana ulaşın
-- 📧 E-posta: yazicirojin@gmail.com
+- 📧 E-posta: yazicirojin937@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/rojinyzc](https://linkedin.com/in/rojinyzc)
 - 🐙 GitHub: [github.com/rojinyzc](https://github.com/rojinyzc)
 
@@ -24,5 +24,6 @@
 
 | 💻 Backend | 🎨 Frontend | 🛢️ Veritabanı | ⚙️ Araçlar |
 |-----------|-------------|---------------|------------|
-| Python, PHP | HTML, CSS, JS, React | MySQL, SQLite | Git, GitHub, VSCode |
+| Python, PHP | HTML, CSS, JS, React | -mssql,
+MySQL, SQLite | Git, GitHub, VSCode |
 | Flask, Node.js | Bootstrap | -|w3scools|-|Docker -Kubernetes| 
